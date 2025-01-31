@@ -14,7 +14,7 @@ Welcome to **Advanced E-Commerce App**, a modern and user-friendly Flutter-based
 
 - **Flutter** – Cross-platform mobile app development  
 - **Dart** – Programming language  
-- **Provider/Bloc** – State management (if applicable)  
+- **Provider/Bloc** – State management  
 
 ## 📦 Installation  
 
