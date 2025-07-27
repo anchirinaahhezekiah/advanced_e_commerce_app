@@ -32,15 +32,5 @@ Welcome to **Advanced E-Commerce App**, a modern and user-friendly Flutter-based
    flutter run
    ```  
 
-## 💳 Payment Integration  
-
-If payment is enabled, ensure you have configured the necessary API keys in `.env` or a secure location.  
-
-## 🤝 Contributing  
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request.  
-
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
+  
 
